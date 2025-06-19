@@ -1,0 +1,15 @@
+Requirements
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+This includes all the libraries used in your code for:
+
+Data handling (numpy, pandas)
+
+Visualization (matplotlib, seaborn)
+
+ML modeling and evaluation (scikit-learn)
